@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FE7BEE6B-8D9C-5319-3324-5617FAFE200D}</ProjectGuid>
+    <ProjectGuid>{CCFFF10D-B6CE-706E-2ED7-B1F9246594B1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>FancyScrollView.Editor</AssemblyName>
@@ -766,15 +766,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="FancyScrollView.csproj">
-      <Project>{D1C0DFF7-691D-765A-9D5B-E9EB2C845445}</Project>
+      <Project>{7FE8755E-FD7B-DCCF-DAB8-8E342A8124FC}</Project>
       <Name>FancyScrollView</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{73B75F9D-4F6A-6B7A-678C-9DCFE1F81C5A}</Project>
+      <Project>{B3F620E4-0123-D8BB-6FE9-94DF9F54AE90}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{17AD8005-F12B-0846-5003-2275A5BFF5A7}</Project>
+      <Project>{6279433F-20CA-CDFB-20D3-ACF165751EC2}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

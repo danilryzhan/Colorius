@@ -32,7 +32,7 @@ public class GameManager : MonoBehaviour
     {
         if (isend!=true)
         {
-            score += time +(level/100); // Ќапример, 1 очко за каждую секунду
+            score += time;  // Ќапример, 1 очко за каждую секунду
         }
         
     }
@@ -48,8 +48,15 @@ public class GameManager : MonoBehaviour
     void EveryFourSeconds()
     {
         //  од, который нужно выполнить каждые 4 секунды
-        level++;
-        spawner.spawnInterval -= 0.05f;
+        score += level;
+        if(level<=30 && isend ==false)
+        {
+         level++;
+        
+         spawner.spawnInterval -= 0.05f;
+
+        }
+        
     }
 
     public void EndGame()

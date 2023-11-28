@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A28F2435-8DA4-1E74-3819-C8649AAB0384}</ProjectGuid>
+    <ProjectGuid>{1154E89B-DB04-BE9C-2E4F-D1473AE1E07F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.AdaptivePerformance</AssemblyName>
@@ -797,19 +797,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Subsystem.Registration.csproj">
-      <Project>{6A5DECF6-1125-0F25-A756-754F077E86CF}</Project>
+      <Project>{2D2469B3-F7D0-BE74-F079-033469F291AB}</Project>
       <Name>Unity.Subsystem.Registration</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Profiling.Core.csproj">
-      <Project>{FDDE41B2-3EAE-C4E6-4FFF-653A7B7B7171}</Project>
+      <Project>{A3165EF0-29E8-E9CC-82DF-6F987A1E2B6D}</Project>
       <Name>Unity.Profiling.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.csproj">
-      <Project>{6054BDAD-87AC-A4CD-B72C-54FE1637F688}</Project>
+      <Project>{EEE76345-FAC3-03A5-4370-9CF528E8ED73}</Project>
       <Name>Unity.VisualScripting.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
-      <Project>{98E98346-FAC2-9F97-8103-94A17E2D4672}</Project>
+      <Project>{3114304A-D83B-7138-BC67-A80600105BF8}</Project>
       <Name>Unity.VisualScripting.Flow</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FCEC4267-D729-036C-C57D-50C8B0E3FC3B}</ProjectGuid>
+    <ProjectGuid>{367CA993-AECB-7BD3-CC88-026C096A539C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>FancyCarouselView.Editor</AssemblyName>
@@ -768,23 +768,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="FancyScrollView.csproj">
-      <Project>{D1C0DFF7-691D-765A-9D5B-E9EB2C845445}</Project>
+      <Project>{7FE8755E-FD7B-DCCF-DAB8-8E342A8124FC}</Project>
       <Name>FancyScrollView</Name>
     </ProjectReference>
     <ProjectReference Include="FancyScrollView.Editor.csproj">
-      <Project>{FE7BEE6B-8D9C-5319-3324-5617FAFE200D}</Project>
+      <Project>{CCFFF10D-B6CE-706E-2ED7-B1F9246594B1}</Project>
       <Name>FancyScrollView.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="FancyCarouselView.csproj">
-      <Project>{1676123A-907E-CC11-4170-0834CC5D3B5B}</Project>
+      <Project>{00517FD2-3D59-86E8-A6D7-D38C8613A5DA}</Project>
       <Name>FancyCarouselView</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{73B75F9D-4F6A-6B7A-678C-9DCFE1F81C5A}</Project>
+      <Project>{B3F620E4-0123-D8BB-6FE9-94DF9F54AE90}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{17AD8005-F12B-0846-5003-2275A5BFF5A7}</Project>
+      <Project>{6279433F-20CA-CDFB-20D3-ACF165751EC2}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

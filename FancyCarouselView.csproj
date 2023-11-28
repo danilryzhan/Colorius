@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1676123A-907E-CC11-4170-0834CC5D3B5B}</ProjectGuid>
+    <ProjectGuid>{00517FD2-3D59-86E8-A6D7-D38C8613A5DA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>FancyCarouselView</AssemblyName>
@@ -750,7 +750,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="FancyScrollView.csproj">
-      <Project>{D1C0DFF7-691D-765A-9D5B-E9EB2C845445}</Project>
+      <Project>{7FE8755E-FD7B-DCCF-DAB8-8E342A8124FC}</Project>
       <Name>FancyScrollView</Name>
     </ProjectReference>
   </ItemGroup>
